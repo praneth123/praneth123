@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gen AI<br>👯 I’m looking to collaborate on Machine Learning, Deep Learning, and LLM projects<br>🤝 I’m looking for help with Generative AI and fine-tuning<br>🌱 I’m currently learning GoLang<br>⚡ Fun fact: I once tried to train a model to choose my lunch. It picked pizza. Every time.
+🔭 I’m currently working on Gen AI<br>👯 I’m looking to collaborate on Machine Learning, Deep Learning, and LLM projects<br>🤝 I’m looking for help with Generative AI and fine-tuning<br>🌱 I’m currently learning Go<br>⚡ Fun fact: I once tried to train a model to choose my lunch. It picked pizza. Every time.
 
 
 
